@@ -63,7 +63,7 @@ function MainContent() {
             <hr className="my-4" />
             {/* Singularidad */}
             <div className="post-preview">
-              <Link href="/nuevas-tecnologias/">
+              <Link href="/singularidad/">
                 <h2 className="post-title">Singularidad Tecnológica</h2>
                 <h3 className="post-subtitle">
                   Cómo afecta la singularidad Tecnológica en la vida de los
